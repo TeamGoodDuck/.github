@@ -1,12 +1,27 @@
 # TeamGoodDuck
 
-<!--
+<img width="920" height="430" alt="Header Capsule 920x430" src="https://github.com/user-attachments/assets/25662efd-28d1-455e-8a07-5be5d8ed226e" />
 
-**Here are some ideas to get you started:**
+## **연락처**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Email:** goodduck1222@gmail.com
+
+**X**: https://x.com/TeamDuckGood
+
+
+## 개발자
+
+**Project Manager**
+
+[안진성 Jinsung Ahn](https://github.com/RUTSIMT)
+
+**Programming**
+
+[오상협 SangHyeop Oh](https://github.com/Gukui0516)
+
+
+[이병찬 ByeongChan Lee](https://github.com/Byeongchan99)
+
+**GameDesigner**
+
+[이정민 Jungmin Lee](https://github.com/jungmin-hadi)
