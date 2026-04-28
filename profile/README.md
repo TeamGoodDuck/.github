@@ -33,3 +33,6 @@ Nov. 26, 2025 ~ Feb. 23, 2026
 **Email:** goodduck1222@gmail.com
 
 **X:** https://x.com/TeamDuckGood
+
+## Steam
+[![Steam](https://img.shields.io/badge/Steam-Spacetime%20Shooter-1b2838?style=for-the-badge&logo=steam&logoColor=white&labelColor=666666)](https://store.steampowered.com/app/4314550/Spacetime_Shooter/)
