@@ -17,18 +17,17 @@ Nov. 26, 2025 ~ Feb. 23, 2026
 
 **Project Manager**
 
-[Jinsung Ahn](https://github.com/RUTSIMT)
+[안진성 Jinsung Ahn](https://github.com/RUTSIMT)
 
 **Programming**
 
-[SangHyeop Oh](https://github.com/Gukui0516)
+[오상협 SangHyeop Oh](https://github.com/Gukui0516)
 
-[ByeongChan Lee](https://github.com/Byeongchan99)
+[이병찬 ByeongChan Lee](https://github.com/Byeongchan99)
 
-**Game Designer**
+**GameDesigner**
 
-[Jungmin Lee](https://github.com/jungmin-hadi)
-
+[이정민 Jungmin Lee](https://github.com/jungmin-hadi)
 ## Contact
 
 **Email:** goodduck1222@gmail.com
