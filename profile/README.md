@@ -3,11 +3,11 @@
 
 ## Project Overview
 
-SpaceTime Shooter is a 2D top-down puzzle sniper game released on Steam.
+SpaceTime Shooter is a 2D top-down puzzle sniper game available on Steam.
 
-Players cannot directly aim and shoot bullets. Instead, they must place Distortion Fields in the stage to bend the bullet's trajectory, avoid civilians, and eliminate all targets.
+To clear a stage, players cannot rely on direct aim. Instead, they must place Distortion Fields to bend the bullet's trajectory, avoid civilians, and eliminate all targets.
 
-The core fun comes from solving complex puzzles with a single bullet. The player's rank is determined by how few Distortion Fields they use to clear each stage.
+The core appeal lies in solving complex puzzles with a single bullet. At the end of each stage, a player's rank is determined by how efficiently they clear the level using the minimum number of Distortion Fields.
 
 ## Development Period
 
