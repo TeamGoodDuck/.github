@@ -17,6 +17,7 @@
 [이정민 Jungmin Lee](https://github.com/jungmin-hadi)
 
 ##프로젝트 개요
+
 SpaceTimeSniper2D는 Steam에 출시된 2D 탑다운 퍼즐 스나이퍼 게임입니다.
 
 플레이어는 총알을 직접 조준해 쏠 수 없습니다. 대신 공간에 왜곡장을 배치해 총알의 궤적을 굴절시키고, 민간인을 피해 모든 목표를 제거해야 합니다. 
